@@ -1,0 +1,6 @@
+City: Dubai  
+; Temprature  :41.23000000000002  
+; Weather  :clear sky  
+; Humidity  :33  
+; Wind Speed  :7.2
+____________________________________
